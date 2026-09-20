@@ -39,6 +39,4 @@ Here is the dataset used in the video - https://github.com/darshilparmar/uber-da
 3. [Transform Python File](mage-files/transform.py)
 
 
-## Complete Video Tutorial
-Video Link - https://www.youtube.com/watch?v=WpQECq5Hx9g
 
